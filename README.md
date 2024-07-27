@@ -8,3 +8,4 @@
 7. Додаткове завдання №1: Базові типи даних.Цикли https://github.com/MariyaLy13/python_for_data_analytics/blob/main/Additional_hw_ML_1_%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%96_%D1%82%D0%B8%D0%BF%D0%B8_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85_%D0%A6%D0%B8%D0%BA%D0%BB%D0%B8.ipynb
 8. hw_1.3.1-1.3.2 Цикл for.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_ML_1_3_1_1_3_2_%D0%A6%D0%B8%D0%BA%D0%BB_for.ipynb
 9. hw_1.3.3 Comprehensions - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_1_3_3_ML_Comprehensions.ipynb
+10. 1.3 Цикли та List Comprehensions в Python - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_ML_1_3_4_%D0%A6%D0%B8%D0%BA%D0%BB_while.ipynb
