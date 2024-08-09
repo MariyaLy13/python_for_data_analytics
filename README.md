@@ -13,3 +13,4 @@
 12. 2.1 Домашнє завдання: Функції. Основи. - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_1_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97%D1%97_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_ML.ipynb
 13. 2_2_Функції_Продовження_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_2_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97_%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_ML.ipynb
 14. 2_3_Модулі_Винятки_ML_.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_3_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%96_%D0%92%D0%B8%D0%BD%D1%8F%D1%82%D0%BA%D0%B8_ML_.ipynb
+15. 2_4_Класи_ML_.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_4_%D0%9A%D0%BB%D0%B0%D1%81%D0%B8_ML_.ipynb
