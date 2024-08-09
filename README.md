@@ -11,3 +11,5 @@
 10. 1.3 Цикли та List Comprehensions в Python - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_ML_1_3_4_%D0%A6%D0%B8%D0%BA%D0%BB_while.ipynb
 11. Додаткове завдання №2: Data structures, loops and functions - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/Additional_hw_ML_2_Data_structures%2C_loops_and_functions.ipynb
 12. 2.1 Домашнє завдання: Функції. Основи. - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_1_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97%D1%97_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_ML.ipynb
+13. 2_2_Функції_Продовження_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_2_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97_%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_ML.ipynb
+14. 
