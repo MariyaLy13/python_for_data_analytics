@@ -16,3 +16,4 @@
 15. 2_4_Класи_ML_.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/2_4_%D0%9A%D0%BB%D0%B0%D1%81%D0%B8_ML_.ipynb
 16. Additional_hw_ML_3_Functions,_list_comprehensions,_classes.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/Additional_hw_ML_3_Functions%2C_list_comprehensions%2C_classes.ipynb
 17. hw_3_1_Введення_у_Pandas_та_NumPy_ML_.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_3_1_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8F_%D1%83_Pandas_%D1%82%D0%B0_NumPy_ML_.ipynb
+18. hw_3_2_Основи_роботи_з_даними_у_Pandas_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_3_2_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8_%D0%B7_%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8_%D1%83_Pandas_ML.ipynb
