@@ -25,3 +25,4 @@
 24. hw_4_4_Візуалізація_з_pandas_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_4_4_%D0%92%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%B7_pandas_ML.ipynb
 25. hw_4_5_Візуалізація_з_seaborn_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_4_5_%D0%92%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%B7_seaborn_ML.ipynb
 26. Творче_аналітичне_завдання_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_ML.ipynb
+Домашнє_завдання_№3_Python_+_SQL.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%94_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%E2%84%963_Python_%2B_SQL.ipynb
