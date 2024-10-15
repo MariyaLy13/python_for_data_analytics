@@ -27,3 +27,4 @@
 26. Творче_аналітичне_завдання_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_ML.ipynb
 27. Домашнє_завдання_№3_Python_+_SQL.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%94_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%E2%84%963_Python_%2B_SQL.ipynb
 28. Домашнє_завдання_№4_Pandas_+_SQL_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%94_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%E2%84%964_Pandas_%2B_SQL_ML.ipynb
+29. hw_6_1_Основи_статистики_ML.ipynb - https://github.com/MariyaLy13/python_for_data_analytics/blob/main/hw_6_1_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8_ML.ipynb
